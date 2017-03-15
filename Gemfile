@@ -31,6 +31,10 @@ group :development, :test do
 end
 
 group :development do
+##Ins Start RK01  
+  gem 'faker' 
+  gem "rails-erd"
+##Ins End RK01  
   gem 'listen', '~> 3.0.5'
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
