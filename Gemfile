@@ -43,3 +43,10 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+##Ins Start RK01  
+#jBuilder is a popular gem maintained by the Rails team that provides a simple DSL 
+#(domain-specific language) allowing you to define JSON structures in your views.
+gem 'jbuilder', '~> 2.5'
+gem 'active_model_serializers', '~> 0.10.0'
+##Ins End RK01  
