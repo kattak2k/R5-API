@@ -49,4 +49,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 #(domain-specific language) allowing you to define JSON structures in your views.
 gem 'jbuilder', '~> 2.5'
 gem 'active_model_serializers', '~> 0.10.0'
+gem 'rack-cors'
+gem 'rack-attack'
 ##Ins End RK01  
